@@ -25,7 +25,7 @@ The objective of the game is to use the paddle to bounce the ball towards the br
 
 <br>
 
-![image](Breakout.png)
+![image](../../Breakout.png)
 
 <br>
 
